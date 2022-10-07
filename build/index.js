@@ -1,6 +1,4 @@
 "use strict";
-// TODO: filter by all, todo or completed
-// TODO: alert if input is empty
 const addTaskInput = document.querySelector(".input-group input");
 const addTaskBtn = document.querySelector(".input-group button");
 const tasksContainer = document.querySelector(".tasks-container");

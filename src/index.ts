@@ -1,6 +1,3 @@
-// TODO: filter by all, todo or completed
-// TODO: alert if input is empty
-
 type Task = {
     id: number
     title: string
